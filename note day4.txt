@@ -1,5 +1,0 @@
-      middle ware là cầu nối ở giữa ...
-      làm đc những việc như log thông tin request hoặc check xem 
-      dữ liệu có hợp lệ hay không(validate) 
-      có nhiều tầng middle ware khác nhau (có thể quan
-regex là một cái chuẩn để có thể đặt các quy tắc cho kdl(tuổi > 0 ...)
